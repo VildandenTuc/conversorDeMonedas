@@ -20,7 +20,7 @@ public class Principal {
         System.out.println("\n*****************************************************************************");
 
         try {
-            System.out.println("Escriba una opción: ");
+            System.out.println("Escriba una opción (1 a 11): ");
             Scanner lectura = new Scanner(System.in);
             int opcion = Integer.valueOf(lectura.nextLine());
             while (opcion >= 1 & opcion < 11) {
@@ -106,7 +106,7 @@ public class Principal {
                 System.out.println("10. [USD] a [COP]");
                 System.out.println("11. salir");
                 System.out.println("\n*****************************************************************************");
-                System.out.println("Escriba una opción: ");
+                System.out.println("Escriba una opción (1 a 11): ");
                 lectura = new Scanner(System.in);
                 opcion = Integer.valueOf(lectura.nextLine());
             }
