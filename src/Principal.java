@@ -113,7 +113,7 @@ public class Principal {
             System.out.println("Finalizando la aplicación.");
         } catch (RuntimeException e) {
             System.out.println(e.getMessage());
-            System.out.println("Finalizando la aplicación.");
+            System.out.println("Finalizando la aplicación");
         }
     }
 }
