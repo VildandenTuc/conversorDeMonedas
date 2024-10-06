@@ -5,7 +5,7 @@
 ![display](https://github.com/user-attachments/assets/ec21e874-3f66-4a8d-88b7-42c3fc5494f5)
 
 <p>Este programa corresponde al desafío "Challenge conversor de monedas".</p>
-<p>Fue diseñado en el lenguaje de programación Java con el editor de código Intellij Idea</p>.
+<p>Fue diseñado en el lenguaje de programación Java con el editor de código Intellij Idea</p>
 
 <h6>Funcionamiento</h6>
 <p>El software consiste en elegir dentro de un menú de opciones (del 1 al 11) el par de monedas para convertir.</p>
